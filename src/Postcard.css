@@ -1,0 +1,20 @@
+.Postcard {
+  padding: 30px;
+}
+
+.Postcard .content {
+  padding: 100px;
+  text-align: center;
+  color: #fff;
+  font-size: 4rem;
+  min-height: 400px;
+}
+
+.Postcard .content span {
+  display: inline-block;
+  letter-spacing: 15px;
+  line-height: 6rem;
+  text-align: center;
+}
+
+/* .Postcard .content span:nth-child(1) */
